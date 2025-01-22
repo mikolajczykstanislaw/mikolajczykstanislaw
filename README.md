@@ -1,4 +1,3 @@
-# ![](https://github-readme-stats.vercel.app/api?username=mikolajczykstanislaw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 # Hi there!, I'm Stanislaw, a Web Developer from Poland 👋🏼:
 🛠️ currently working on mobile app HydroGrowV2:  https://github.com/mikolajczykstanislaw/HydroGrowV2<br>
 🚀 my own course site: https://infkurs.pl
