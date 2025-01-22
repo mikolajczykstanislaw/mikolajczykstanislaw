@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJoMmp2emJybzF5dzc1OGxsbXVpYWllbXZ6aWl3Y25rdjh6NzVqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u6dSXlubrUDjWx2/giphy.gif" style="width: 100%; height: 300px; object-size: cover;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJoMmp2emJybzF5dzc1OGxsbXVpYWllbXZ6aWl3Y25rdjh6NzVqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u6dSXlubrUDjWx2/giphy.gif" style="width: 100%; height: 300px;" />
 </p>
 
 # Hi there!, I'm Stanislaw, a Web Developer from Poland 👋🏼:
