@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2-ebed4f6376.gif" height="auto" width="100%" />
+  <img src="https://s2.ezgif.com/tmp/ezgif-2-620868b001.gif" height="auto" width="100%" />
 </p>
 
 # Hi there!, I'm Stanislaw, a Web Developer from Poland 👋🏼:
