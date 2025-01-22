@@ -1,6 +1,6 @@
 # Hi there!, I'm Stanislaw, a Web Developer from Poland 👋🏼:
 🛠️ currently working on mobile app HydroGrowV2:  https://github.com/mikolajczykstanislaw/HydroGrowV2<br>
-🚀 My own course site: https://infkurs.pl
+🚀 my own course site: https://infkurs.pl
 
 
 # 💻 Tech Stack:
