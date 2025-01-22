@@ -2,7 +2,7 @@
 🛠️ currently working on mobile app HydroGrowV2:  https://github.com/mikolajczykstanislaw/HydroGrowV2<br>
 🚀 my own course site: https://infkurs.pl
 
-<div style="float: right; margin-left: 15px; margin-bottom: 10px;">
+<div style="float: left; margin-left: 15px; margin-bottom: 10px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hxYTJjd2cweXp2anp1ODdhN29sbW45NWtvNGU5NHR5eDE0ZGE3MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xpLocgdzHqW9G/giphy.gif" alt="Gif of my work" width="200" height="auto"/>
 </div>
 
