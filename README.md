@@ -35,8 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/snake.svg" alt="Snake animation" />
-
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
