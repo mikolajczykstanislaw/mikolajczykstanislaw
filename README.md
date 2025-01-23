@@ -1,3 +1,4 @@
+<img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" height="auto" width="100%">
 ![Alt text dla GIF-a](supawork_20250123_014315.gif)
 
 # Hi there!, I'm Stanislaw, a Web Developer from Poland <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="24" width="auto" alt="Machanie ręką">
