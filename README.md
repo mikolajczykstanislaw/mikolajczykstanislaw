@@ -1,6 +1,8 @@
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" height="100px" width="auto"/>
-</p>
+# Hi there!, I'm Stanislaw, a Web Developer from Poland 👋🏼:
+🛠️ currently working on mobile app HydroGrowV2:  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">HydroGrowV2</a><br>
+🚀 my own course site: <a href="https://infkurs.pl">infkurs.pl</a>
+
+<img style="float: right; margin-left: 15px;" src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" height="100px" width="auto">
 
 # Hi there!, I'm Stanislaw, a Web Developer from Poland 👋🏼:
 🛠️ currently working on mobile app HydroGrowV2:  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">HydroGrowV2</a><br>
