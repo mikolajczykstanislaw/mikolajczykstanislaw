@@ -1,10 +1,11 @@
-<img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0447.gif" height="auto" width="100%">
+
 
 # Hi there!, I'm Stanislaw, a Full Stack Developer from Poland <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="24" width="auto" alt="Machanie ręką">
 🛠️ currently working on mobile app HydroGrowV2:  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">HydroGrowV2</a><br>
 🚀 my own course site: <a href="https://infkurs.pl">infkurs.pl</a>
 
 # 💻 Tech Stack:
+<img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0447.gif" height="auto" width="100%">
 | **Category**       | **Technology**                                                                                   |
 |---------------------|-----------------------------------------------------------------------------------------------|
 | **Frontend**        | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/react_three_fiber-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) |
@@ -17,6 +18,7 @@
 | **Payment Systems** | ![Stripe](https://img.shields.io/badge/stripe-%23308ADA.svg?style=for-the-badge&logo=stripe&logoColor=white) |
 | **CMS**             | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Moodle](https://img.shields.io/badge/moodle-%238CBB33.svg?style=for-the-badge&logo=moodle&logoColor=white) |
 | **Other**           | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/appwrite-%23000000.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![NativeWind](https://img.shields.io/badge/nativewind-%2332D5A2.svg?style=for-the-badge&logo=react&logoColor=white) |
+<img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0447.gif" height="auto" width="100%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
@@ -24,4 +26,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
 </picture>
 
-<img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0447.gif" height="auto" width="100%">
+
