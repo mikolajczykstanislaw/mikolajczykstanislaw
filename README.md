@@ -13,4 +13,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
 </picture>
 
-<img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0217.gif" height="auto" width="100%">
+<img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0497.gif" height="auto" width="100%">
