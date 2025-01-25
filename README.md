@@ -1,4 +1,4 @@
-<img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0538.gif" height="auto" width="100%">
+<img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0222.gif" height="auto" width="100%">
 
 # Hi there!, I'm Stanislaw, a Web Developer from Poland <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="24" width="auto" alt="Machanie ręką">
 🛠️ currently working on mobile app HydroGrowV2:  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">HydroGrowV2</a><br>
@@ -12,5 +12,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
 </picture>
-
-<img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0538.gif" height="auto" width="100%">
