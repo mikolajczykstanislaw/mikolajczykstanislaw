@@ -3,6 +3,7 @@
 🚀 my own course site: <a href="https://infkurs.pl">infkurs.pl</a>
 
 <H1>💻 Tech Stack:</H1>
+
 <img src="https://www.gify.net/data/media/562/linia-ruchomy-obrazek-0447.gif" height="auto" width="100%">
 
 | **Category**       | **Technology**                                                                                   |
