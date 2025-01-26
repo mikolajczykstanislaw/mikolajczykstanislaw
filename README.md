@@ -25,8 +25,8 @@
 | **Adidas Frontend**    | A front-end project that replicates the Adidas website. Highlights responsive design and web functionality expertise. | [adidas-front-end.vercel.app](https://adidas-front-end.vercel.app/)                              |
 | **Forest Page**        | My first independently created website, showcasing a simple yet functional design.                              | [Forest-Page](https://mikolajczykstanislaw.github.io/Forest-Page/)                               |
 | **CozyRent Homepage**  | My second independently created website, focusing on a clean and modern interface for a fictional rental service. | [CozyRent](https://mikolajczykstanislaw.github.io/CozyRent-HomePage/)                            |
-| **CozyRent Homepage**  | My second independently created website, focusing on a clean and modern interface for a fictional rental service. | [EcoRide](https://ecoride.domalewscy.pl/)                            |
-| **EcoRide**            | A full-stack web application for carpooling, developed as part of the Hackathon Hackheroes.                | [infkurs](https://infkurs.pl/)                                                                   |
+| **EcoRide**  | A full-stack web application for carpooling, developed as part of the Hackathon Hackheroes. | [EcoRide](https://ecoride.domalewscy.pl/)                            |
+| **infkurs**            | A personal promotional website designed to advertise and redirect users to professional courses.                | [infkurs](https://infkurs.pl/)                                                                   |
 | **HydroGrowV2**            | A mobile application made for a competition at Bialystok University of Technology aimed at studying and growing plants in a hydroponic system.                | coming soon                                                                  |
 
 <picture>
