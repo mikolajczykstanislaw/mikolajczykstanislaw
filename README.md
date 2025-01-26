@@ -19,13 +19,13 @@
 
 <H1>📂 Projects:</H1>
 
-| **Project Name**      | **Description/Link**                                                   |
-|------------------------|-----------------------------------------------------------------------|
-| Haunted House          | <a href="https://16-haunted-house-six.vercel.app/">16-haunted-house-six.vercel.app</a> |
-| Adidas Frontend        | <a href="https://adidas-front-end.vercel.app/">adidas-front-end.vercel.app</a>        |
-| Forest Page            | <a href="https://mikolajczykstanislaw.github.io/Forest-Page/">Forest-Page</a>         |
-| CozyRent Homepage      | <a href="https://mikolajczykstanislaw.github.io/CozyRent-HomePage/">CozyRent</a>      |
-| infkurs     | <a href="https://infkurs.pl/">infkurs</a>      |
+| **Project Name**      | **Description**                                                                                                  | **Link**                                                                                           |
+|------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Haunted House**      | A simple haunted house scene built with Three.js. This project demonstrates basic 3D rendering and animations.   | [16-haunted-house-six.vercel.app](https://16-haunted-house-six.vercel.app/)                      |
+| **Adidas Frontend**    | A front-end project that replicates the Adidas website. Highlights responsive design and web functionality expertise. | [adidas-front-end.vercel.app](https://adidas-front-end.vercel.app/)                              |
+| **Forest Page**        | My first independently created website, showcasing a simple yet functional design.                              | [Forest-Page](https://mikolajczykstanislaw.github.io/Forest-Page/)                               |
+| **CozyRent Homepage**  | My second independently created website, focusing on a clean and modern interface for a fictional rental service. | [CozyRent](https://mikolajczykstanislaw.github.io/CozyRent-HomePage/)                            |
+| **infkurs**            | A personal promotional website designed to advertise and redirect users to professional courses.                | [infkurs](https://infkurs.pl/)                                                                   |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
