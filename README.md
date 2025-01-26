@@ -26,6 +26,7 @@
 | **Forest Page**        | My first independently created website, showcasing a simple yet functional design.                              | [Forest-Page](https://mikolajczykstanislaw.github.io/Forest-Page/)                               |
 | **CozyRent Homepage**  | My second independently created website, focusing on a clean and modern interface for a fictional rental service. | [CozyRent](https://mikolajczykstanislaw.github.io/CozyRent-HomePage/)                            |
 | **infkurs**            | A personal promotional website designed to advertise and redirect users to courses preparing for vocational exams.                | [infkurs](https://infkurs.pl/)                                                                   |
+| **HydroGrowV2**            | A mobile application made for a competition at Bialystok University of Technology aimed at studying and growing plants in a hydroponic system.                | coming soon                                                                  |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
