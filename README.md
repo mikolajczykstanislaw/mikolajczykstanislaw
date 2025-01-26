@@ -17,6 +17,15 @@
 | **CMS**             | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Moodle](https://img.shields.io/badge/moodle-%238CBB33.svg?style=for-the-badge&logo=moodle&logoColor=white) |
 | **Other**           | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/appwrite-%23000000.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![NativeWind](https://img.shields.io/badge/nativewind-%2332D5A2.svg?style=for-the-badge&logo=react&logoColor=white) |
 
+<H1>📂 Projects:</H1>
+
+| **Project Name**      | **Description/Link**                                                   |
+|------------------------|-----------------------------------------------------------------------|
+| Haunted House          | <a href="https://16-haunted-house-six.vercel.app/">16-haunted-house-six.vercel.app</a> |
+| Adidas Frontend        | <a href="https://adidas-front-end.vercel.app/">adidas-front-end.vercel.app</a>        |
+| Forest Page            | <a href="https://mikolajczykstanislaw.github.io/Forest-Page/">Forest-Page</a>         |
+| CozyRent Homepage      | <a href="https://mikolajczykstanislaw.github.io/CozyRent-HomePage/">CozyRent</a>      |
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
