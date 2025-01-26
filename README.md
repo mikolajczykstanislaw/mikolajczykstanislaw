@@ -25,7 +25,7 @@
 | **Adidas Frontend**    | A front-end project that replicates the Adidas website. Highlights responsive design and web functionality expertise. | [adidas-front-end.vercel.app](https://adidas-front-end.vercel.app/)                              |
 | **Forest Page**        | My first independently created website, showcasing a simple yet functional design.                              | [Forest-Page](https://mikolajczykstanislaw.github.io/Forest-Page/)                               |
 | **CozyRent Homepage**  | My second independently created website, focusing on a clean and modern interface for a fictional rental service. | [CozyRent](https://mikolajczykstanislaw.github.io/CozyRent-HomePage/)                            |
-| **infkurs**            | A personal promotional website designed to advertise and redirect users to professional courses.                | [infkurs](https://infkurs.pl/)                                                                   |
+| **infkurs**            | A personal promotional website designed to advertise and redirect users to courses preparing for vocational exams.                | [infkurs](https://infkurs.pl/)                                                                   |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
