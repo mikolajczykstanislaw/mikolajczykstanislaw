@@ -25,6 +25,7 @@
 | Adidas Frontend        | <a href="https://adidas-front-end.vercel.app/">adidas-front-end.vercel.app</a>        |
 | Forest Page            | <a href="https://mikolajczykstanislaw.github.io/Forest-Page/">Forest-Page</a>         |
 | CozyRent Homepage      | <a href="https://mikolajczykstanislaw.github.io/CozyRent-HomePage/">CozyRent</a>      |
+| infkurs     | <a href="https://infkurs.pl/">infkurs</a>      |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
