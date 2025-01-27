@@ -24,14 +24,14 @@
 
 | **Project Name**      | **Description**                                                                                                  | **Link**                                                                                           |
 |------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Haunted House**      | A simple haunted house scene built with Three.js. This project demonstrates basic 3D rendering and animations.   | [16-haunted-house-six.vercel.app](https://16-haunted-house-six.vercel.app/)                      |
-| **Adidas Frontend**    | A front-end project that replicates the Adidas website. Highlights responsive design and web functionality expertise. | [adidas-front-end.vercel.app](https://adidas-front-end.vercel.app/)                              |
+| **HydroGrowV2**        | A mobile application made for a competition at Bialystok University of Technology aimed at studying and growing plants in a hydroponic system.                | coming soon                                                                  |
+| **My own Webpage**     | My website, where you can find all my projects and information about me.                                          | coming soon                                                                  |
+| **Haunted House**      | A simple haunted house scene built with Three.js. This project demonstrates basic 3D rendering and animations.    | [16-haunted-house-six.vercel.app](https://16-haunted-house-six.vercel.app/)                      |
+| **Adidas Frontend**    | A front-end project that replicates the Adidas website. Highlights responsive design and web functionality expertise. | [adidas-front-end.vercel.app](https://adidas-front-end.vercel.app/)                               |
 | **Forest Page**        | My first independently created website, showcasing a simple yet functional design.                              | [Forest-Page](https://mikolajczykstanislaw.github.io/Forest-Page/)                               |
 | **CozyRent Homepage**  | My second independently created website, focusing on a clean and modern interface for a fictional rental service. | [CozyRent](https://mikolajczykstanislaw.github.io/CozyRent-HomePage/)                            |
-| **EcoRide**  | A full-stack web application for carpooling, developed as part of the Hackathon Hackheroes. | [EcoRide](https://ecoride.domalewscy.pl/)                            |
-| **infkurs**            | A personal promotional website designed to advertise and redirect users to professional courses.                | [infkurs](https://infkurs.pl/)                                                                   |
-| **HydroGrowV2**            | A mobile application made for a competition at Bialystok University of Technology aimed at studying and growing plants in a hydroponic system.                | coming soon                                                                  |
-| **My own Webpage**            | My website, where you can find all my projects and information about me.                | coming soon                                                                  |
+| **EcoRide**            | A full-stack web application for carpooling, developed as part of the Hackathon Hackheroes.                      | [EcoRide](https://ecoride.domalewscy.pl/)                                                         |
+| **infkurs**            | A personal promotional website designed to advertise and redirect users to professional courses.                | [infkurs](https://infkurs.pl/)                                                                    |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
