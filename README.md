@@ -31,6 +31,7 @@
 | **EcoRide**  | A full-stack web application for carpooling, developed as part of the Hackathon Hackheroes. | [EcoRide](https://ecoride.domalewscy.pl/)                            |
 | **infkurs**            | A personal promotional website designed to advertise and redirect users to professional courses.                | [infkurs](https://infkurs.pl/)                                                                   |
 | **HydroGrowV2**            | A mobile application made for a competition at Bialystok University of Technology aimed at studying and growing plants in a hydroponic system.                | coming soon                                                                  |
+| **My own Webpage**            | My website, where you can find all my projects and information about me.                | coming soon                                                                  |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
