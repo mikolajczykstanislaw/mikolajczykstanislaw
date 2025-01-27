@@ -2,6 +2,7 @@
 🛠️ currently working on:
 - mobile app HydroGrowV2:  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">HydroGrowV2</a><br>
 - my own <a href="">Webpage</a><br>
+
 🚀 my own course site: <a href="https://infkurs.pl">infkurs.pl</a>
 
 <H1>💻 Tech Stack:</H1>
