@@ -3,8 +3,6 @@
 - mobile app HydroGrowV2:  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">HydroGrowV2</a><br>
 - my own <a href="https://personal-website-amber-xi-15.vercel.app/">Webpage</a><br>
 
-🚀 my own course site: <a href="https://infkurs.pl">infkurs.pl</a>
-
 <H1>💻 Tech Stack:</H1>
 
 | **Category**       | **Technology**                                                                                   |
@@ -31,7 +29,6 @@
 | **Forest Page**        | My first independently created website, showcasing a simple yet functional design.                              | [Forest-Page](https://mikolajczykstanislaw.github.io/Forest-Page/)                               |
 | **CozyRent Homepage**  | My second independently created website, focusing on a clean and modern interface for a fictional rental service. | [CozyRent](https://mikolajczykstanislaw.github.io/CozyRent-HomePage/)                            |
 | **EcoRide**            | A full-stack web application for carpooling, developed as part of the Hackathon Hackheroes.                      | [EcoRide](https://ecoride.domalewscy.pl/)                                                         |
-| **infkurs**            | A personal promotional website designed to advertise and redirect users to professional courses.                | [infkurs](https://infkurs.pl/)                                                                    |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
