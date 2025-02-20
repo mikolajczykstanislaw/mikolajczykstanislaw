@@ -22,6 +22,7 @@
 
 | **Project Name**      | **Description**                                                                                                  | **Link**                                                                                           |
 |------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **TTS & Translate App**        | A JavaScript web application that converts text to speech and translates languages using the Web Speech API, DeepL, and Vercel's serverless functions.                | [Forest-Page](https://mikolajczykstanislaw.github.io/Forest-Page/) |
 | **HydroGrowV2**        | A mobile application made for a competition at Bialystok University of Technology aimed at studying and growing plants in a hydroponic system.                | coming soon                                                                  |
 | **My own Webpage**     | My website, where you can find all my projects and information about me.                                          | coming soon                                                                  |
 | **Haunted House**      | A simple haunted house scene built with Three.js. This project demonstrates basic 3D rendering and animations.    | [16-haunted-house-six.vercel.app](https://16-haunted-house-six.vercel.app/)                      |
