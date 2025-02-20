@@ -1,38 +1,98 @@
-# Hi there!, I'm Stanislaw, a Web Developer from Poland <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="24" width="auto" alt="Machanie ręką">
-🛠️ currently working on:
-- mobile app HydroGrowV2:  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">HydroGrowV2</a><br>
-- my own <a href="https://personal-website-amber-xi-15.vercel.app/">Webpage</a><br>
+# Hi there! 👋 I'm Stanisław, a Web Developer from Poland
 
-<H1>💻 Tech Stack:</H1>
+🚀 **Passionate about creating modern web experiences**  
+💡 **Always learning new technologies**  
+🌱 **Currently exploring React Three Fiber & advanced animations**
 
-| **Category**       | **Technology**                                                                                   |
-|---------------------|-----------------------------------------------------------------------------------------------|
-| **Frontend**        | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/react_three_fiber-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-%23202020.svg?style=for-the-badge&logo=greensock&logoColor=white)|
-| **Backend**         | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Databases**       | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
-| **Platforms**       | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Hostinger](https://img.shields.io/badge/hostinger-%23FF8C00.svg?style=for-the-badge&logo=hostinger&logoColor=white) |
-| **Tools**           | ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gulp](https://img.shields.io/badge/gulp-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) |
-| **Design Tools**    | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
-| **E-commerce**      | ![WooCommerce](https://img.shields.io/badge/woocommerce-%23746A5B.svg?style=for-the-badge&logo=woocommerce&logoColor=white) ![PrestaShop](https://img.shields.io/badge/prestashop-%230F4B6E.svg?style=for-the-badge&logo=prestashop&logoColor=white) |
-| **Payment Systems** | ![Stripe](https://img.shields.io/badge/stripe-%23308ADA.svg?style=for-the-badge&logo=stripe&logoColor=white) |
-| **CMS**             | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Moodle](https://img.shields.io/badge/moodle-%238CBB33.svg?style=for-the-badge&logo=moodle&logoColor=white) |
-| **Other**           | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/appwrite-%23000000.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![NativeWind](https://img.shields.io/badge/nativewind-%2332D5A2.svg?style=for-the-badge&logo=react&logoColor=white) |
+---
 
-<H1>📂 Projects:</H1>
+## 🛠️ Currently Working On
 
-| **Project Name**      | **Description**                                                                                                  | **Link**                                                                                           |
-|------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **TTS & Translate App**        | A JavaScript web application that converts text to speech and translates languages using the Web Speech API, DeepL, and Vercel's serverless functions.                | [TTS & Translate App](https://tts-translate-app-seven.vercel.app/) |
-| **HydroGrowV2**        | A mobile application made for a competition at Bialystok University of Technology aimed at studying and growing plants in a hydroponic system.                | coming soon                                                                  |
-| **My own Webpage**     | My website, where you can find all my projects and information about me.                                          | coming soon                                                                  |
-| **Haunted House**      | A simple haunted house scene built with Three.js. This project demonstrates basic 3D rendering and animations.    | [16-haunted-house-six.vercel.app](https://16-haunted-house-six.vercel.app/)                      |
-| **Adidas Frontend**    | A front-end project that replicates the Adidas website. Highlights responsive design and web functionality expertise. | [adidas-front-end.vercel.app](https://adidas-front-end.vercel.app/)                               |
-| **Forest Page**        | My first independently created website, showcasing a simple yet functional design.                              | [Forest-Page](https://mikolajczykstanislaw.github.io/Forest-Page/)                               |
-| **CozyRent Homepage**  | My second independently created website, focusing on a clean and modern interface for a fictional rental service. | [CozyRent](https://mikolajczykstanislaw.github.io/CozyRent-HomePage/)                            |
-| **EcoRide**            | A full-stack web application for carpooling, developed as part of the Hackathon Hackheroes.                      | [EcoRide](https://ecoride.domalewscy.pl/)                                                         |
+- **HydroGrowV2 Mobile App**  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=flat-square&logo=github)](https://github.com/mikolajczykstanislaw/HydroGrowV2)  
+  Competition project for hydroponic plant monitoring @ Bialystok University of Technology
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
-</picture>
+- **Personal Portfolio Website**  
+  [![Vercel Deployment](https://img.shields.io/badge/Vercel-Preview-black?style=flat-square&logo=vercel)](https://personal-website-amber-xi-15.vercel.app/)  
+  Modern showcase of my projects and skills with 3D elements
+
+---
+
+## 💻 Tech Stack
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+
+### **Tools & Platforms**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress)
+
+---
+
+## 🚀 Featured Projects
+
+### **TTS & Translate App**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel)](https://tts-translate-app-seven.vercel.app/)
+
+Web application combining text-to-speech and translation using:
+- Web Speech API
+- DeepL Integration
+- Vercel Serverless Functions
+
+---
+
+### **EcoRide - Carpooling Platform**
+[![Website](https://img.shields.io/badge/Visit_Site-006400?style=for-the-badge)](https://ecoride.domalewscy.pl/)
+
+Full-stack Hackathon project featuring:
+- Real-time ride matching
+- User rating system
+- Route optimization
+
+---
+
+### **3D Web Experiences**
+| Project | Description | Demo |
+|---------|-------------|------|
+| **Haunted House** | Three.js scene with dynamic lighting | [Demo](https://16-haunted-house-six.vercel.app/) |
+| **Adidas Clone** | Responsive e-commerce frontend | [Demo](https://adidas-front-end.vercel.app/) |
+
+---
+
+## 🎨 Design Projects
+
+### **Forest Page**
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222?style=flat-square&logo=github)](https://mikolajczykstanislaw.github.io/Forest-Page/)  
+My first independent website featuring responsive design and CSS animations
+
+### **CozyRent Homepage**
+[![Live Preview](https://img.shields.io/badge/Preview-FF6B6B?style=flat-square)](https://mikolajczykstanislaw.github.io/CozyRent-HomePage/)  
+Modern rental service interface with Bootstrap integration
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
