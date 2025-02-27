@@ -1,7 +1,7 @@
 # Hi there!, I'm Stanislaw, a Web Developer from Poland <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="24" width="auto" alt="Machanie ręką">
 🛠️ currently working on:
 - mobile app HydroGrowV2:  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">HydroGrowV2</a><br>
-- my own <a href="https://personal-website-amber-xi-15.vercel.app/">Webpage</a><br>
+- my own <a href="https://smiko.pl">Webpage</a><br>
 
 # 💻 Tech Stack:
 
