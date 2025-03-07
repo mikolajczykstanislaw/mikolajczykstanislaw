@@ -18,19 +18,6 @@
 | **CMS**             | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Moodle](https://img.shields.io/badge/moodle-%238CBB33.svg?style=for-the-badge&logo=moodle&logoColor=white) |
 | **Other**           | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/appwrite-%23000000.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![NativeWind](https://img.shields.io/badge/nativewind-%2332D5A2.svg?style=for-the-badge&logo=react&logoColor=white) |
 
-# 📂 Projects:
-
-| **Project Name**      | **Description**                                                                                                  | **Link**                                                                                           |
-|------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **TTS & Translate App**        | A JavaScript web application that converts text to speech and translates languages using the Web Speech API, DeepL, and Vercel's serverless functions.                | [TTS & Translate App](https://tts-translate-app-seven.vercel.app/) |
-| **HydroGrowV2**        | A mobile application made for a competition at Bialystok University of Technology aimed at studying and growing plants in a hydroponic system.                | coming soon                                                                  |
-| **My own Webpage**     | My website, where you can find all my projects and information about me.                                          | coming soon                                                                  |
-| **Haunted House**      | A simple haunted house scene built with Three.js. This project demonstrates basic 3D rendering and animations.    | [16-haunted-house-six.vercel.app](https://16-haunted-house-six.vercel.app/)                      |
-| **Adidas Frontend**    | A front-end project that replicates the Adidas website. Highlights responsive design and web functionality expertise. | [adidas-front-end.vercel.app](https://adidas-front-end.vercel.app/)                               |
-| **Forest Page**        | My first independently created website, showcasing a simple yet functional design.                              | [Forest-Page](https://mikolajczykstanislaw.github.io/Forest-Page/)                               |
-| **CozyRent Homepage**  | My second independently created website, focusing on a clean and modern interface for a fictional rental service. | [CozyRent](https://mikolajczykstanislaw.github.io/CozyRent-HomePage/)                            |
-| **EcoRide**            | A full-stack web application for carpooling, developed as part of the Hackathon Hackheroes.                      | [EcoRide](https://ecoride.domalewscy.pl/)                                                         |
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
