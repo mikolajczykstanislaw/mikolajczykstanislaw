@@ -1,23 +1,36 @@
-# <div align="center">Hi there! 👋 I'm Stanislaw, a Web Developer from Poland</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="45" width="auto" alt="Waving hand">
+  
+  # Hi there! 👋 I'm Stanislaw Mikolajczyk
+  ### Frontend Developer & 3D Web Expert from Poland
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-smiko.pl-brightgreen?style=for-the-badge&logo=safari&logoColor=white)](https://smiko.pl)
   [![GitHub](https://img.shields.io/badge/Follow-@mikolajczykstanislaw-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikolajczykstanislaw?tab=followers)
   [![Wakatime](https://img.shields.io/badge/WakaTime-@02e45dae-orange?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9)
-</div>
-
-<div align="center">
+  
   <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9">
     <img src="https://wakatime.com/badge/user/02e45dae-8881-4b6f-b47d-d35d57b742b9.svg" alt="WakaTime Stats">
   </a>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6AD9F7&width=435&lines=Frontend+Developer;3D+Web+Expert;React+%26+Vue+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6AD9F7&width=435&lines=Frontend+Developer;3D+Web+Expert;React+%26+Vue+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  
+  ## 🚀 About Me
+  
+  Passionate frontend developer specializing in creating immersive web experiences with React, Vue, and Three.js.
+  I love building responsive, user-friendly interfaces and exploring the cutting edge of web technology.
+  
+  <details>
+    <summary><b>✨ More about me</b></summary>
+    <br>
+    <p>
+      With several years of experience in web development, I focus on creating performant and visually stunning applications.
+      I'm particularly interested in 3D web experiences, interactive UIs, and bridging the gap between design and development.
+      When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
+    </p>
+  </details>
 </div>
 
 ## <div align="center">⚡ Current Projects</div>
@@ -32,7 +45,7 @@
   </a>
 </div>
 
----
+<br>
 
 ## <div align="center">💫 My Tech Universe</div>
 
@@ -131,6 +144,8 @@
   <summary><b>🧰 View all technologies</b></summary>
   <br>
   
+  <div align="center">
+  
   ### Frontend
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -190,18 +205,15 @@
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![Appwrite](https://img.shields.io/badge/appwrite-%23000000.svg?style=for-the-badge&logo=appwrite&logoColor=white)
   ![NativeWind](https://img.shields.io/badge/nativewind-%2332D5A2.svg?style=for-the-badge&logo=react&logoColor=white)
+  
+  </div>
 </details>
 
----
-
-## <div align="center">📈 GitHub Activity</div>
+## <div align="center">📊 GitHub Stats & Activity</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikolajczykstanislaw&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikolajczykstanislaw&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikolajczykstanislaw&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikolajczykstanislaw&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
@@ -212,7 +224,7 @@
 
 <div align="center">
   <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=02e45dae-8881-4b6f-b47d-d35d57b742b9&theme=radical&bg_color=0D1117&hide_border=true" alt="WakaTime Weekly Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=02e45dae-8881-4b6f-b47d-d35d57b742b9&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="WakaTime Weekly Stats" />
   </a>
 </div>
 
@@ -228,7 +240,15 @@
   <a href="mailto:mikolajczykstanislaw415@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/stanislaw-mikolajczyk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/StanMikolajczyk" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </div>
+
+<br>
 
 <div align="center">
   <picture>
@@ -240,6 +260,17 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mikolajczykstanislaw&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📌 Featured Repositories</h3>
+  
+  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikolajczykstanislaw&repo=HydroGrowV2&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="HydroGrowV2 Repo" />
+  </a>
+  <!-- Add more featured repos as needed -->
 </div>
 
 ---
