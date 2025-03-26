@@ -225,14 +225,8 @@
 ## <div align="center">🌐 Connect With Me</div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/stanislaw-mikolajczyk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@smiko.pl" target="_blank">
+  <a href="mailto:mikolajczykstanislaw415@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.com/users/youruser" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
