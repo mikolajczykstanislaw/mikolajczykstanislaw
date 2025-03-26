@@ -131,7 +131,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mikolajczykstanislaw&show_icons=true&theme=dark" alt="GitHub Stats" />
   
   <h3>🔥 Coding Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mikolajczykstanislaw&theme=dark" alt="WakaTime Stats" />
+  <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9">
+    <img src="https://wakatime.com/badge/user/02e45dae-8881-4b6f-b47d-d35d57b742b9.svg" alt="WakaTime Stats" />
+  </a>
+  <br><br>
+  <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=02e45dae-8881-4b6f-b47d-d35d57b742b9&theme=dark" alt="WakaTime Weekly Stats" />
+  </a>
   
   <h3>💻 Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikolajczykstanislaw&layout=compact&theme=dark" alt="Top Languages" />
