@@ -129,7 +129,12 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=mikolajczykstanislaw&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikolajczykstanislaw&theme=dark" alt="GitHub Streak" />
+  
+  <h3>🔥 Coding Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mikolajczykstanislaw&theme=dark" alt="WakaTime Stats" />
+  
+  <h3>💻 Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikolajczykstanislaw&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <div align="center">
