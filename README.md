@@ -1,144 +1,89 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="45" width="auto" alt="Waving hand">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=180&section=header&text=Stanislaw%20Mikolajczyk&fontSize=42&fontAlignY=36&animation=fadeIn&fontColor=FFFFFF" alt="header"/>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD9F7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+3D+Web+Expert;React+%7C+Vue+%7C+Three.js+%7C+TypeScript;Building+immersive+digital+experiences" alt="Typing SVG" /></a>
   
-  # Hi there! 👋 I'm Stanislaw Mikolajczyk
-  ### Frontend Developer & 3D Web Expert from Poland
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-smiko.pl-brightgreen?style=for-the-badge&logo=safari&logoColor=white)](https://smiko.pl)
-  [![GitHub](https://img.shields.io/badge/Follow-@mikolajczykstanislaw-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikolajczykstanislaw?tab=followers)
-  [![Wakatime](https://img.shields.io/badge/WakaTime-@02e45dae-orange?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9)
-  
-  <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9">
-    <img src="https://wakatime.com/badge/user/02e45dae-8881-4b6f-b47d-d35d57b742b9.svg" alt="WakaTime Stats">
-  </a>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6AD9F7&width=435&lines=Frontend+Developer;3D+Web+Expert;React+%26+Vue+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <div>
+    <a href="https://smiko.pl" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-smiko.pl-20BEFF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/mikolajczykstanislaw?tab=followers" target="_blank">
+      <img src="https://img.shields.io/github/followers/mikolajczykstanislaw?style=for-the-badge&logo=github&labelColor=0D1117&color=20BEFF" alt="GitHub followers"/>
+    </a>
+    <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9" target="_blank">
+      <img src="https://img.shields.io/badge/WakaTime-@02e45dae-20BEFF?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
+    </a>
+  </div>
 </div>
+
+<br/>
+
+<!-- About Me Section -->
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=mikolajczykstanislaw&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Stats" width="100%"/>
+</div>
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <img align="right" width="300" src="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/main/assets/coding.gif" alt="Coding gif" />
+  
+  🔭 &nbsp;I'm currently working on <b>HydroGrowV2</b> - a React Native app<br/>
+  🌱 &nbsp;I'm passionate about creating immersive 3D web experiences<br/>
+  👨‍💻 &nbsp;All of my projects are available at <a href="https://smiko.pl">smiko.pl</a><br/>
+  💬 &nbsp;Ask me about <b>React, Vue, Three.js, and Frontend Architecture</b><br/>
+  ⚡ &nbsp;Fun fact: I've been coding for over 5 years and still enjoy it every day!
+</p>
+
+<br/>
+
+<!-- Tech Stack Section -->
+<h2 align="center">💻 Technology Stack</h2>
 
 <div align="center">
-  
-  ## 🚀 About Me
-  
-  Passionate frontend developer specializing in creating immersive web experiences with React, Vue, and Three.js.
-  I love building responsive, user-friendly interfaces and exploring the cutting edge of web technology.
-  
-  <details>
-    <summary><b>✨ More about me</b></summary>
-    <br>
-    <p>
-      With several years of experience in web development, I focus on creating performant and visually stunning applications.
-      I'm particularly interested in 3D web experiences, interactive UIs, and bridging the gap between design and development.
-      When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
-    </p>
-  </details>
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Tools & DevOps</h3>
+        <div align="center">
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="Gulp" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+          <a href="#" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-
-## <div align="center">⚡ Current Projects</div>
-
-<div align="center">
-  <a href="https://smiko.pl" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Website-smiko.pl-2ea44f?style=for-the-badge&logo=safari&logoColor=white" alt="Personal Website">
-  </a>
-  
-  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2" target="_blank">
-    <img src="https://img.shields.io/badge/Mobile_App-HydroGrowV2-blue?style=for-the-badge&logo=react&logoColor=white" alt="HydroGrowV2">
-  </a>
-</div>
-
-<br>
-
-## <div align="center">💫 My Tech Universe</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="65" height="65" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 8px;" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="65" height="65" style="background-color: white; border-radius: 8px; padding: 8px;" />
-      </a>
-      <br>Three.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="65" height="65" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      </a>
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="65" height="65" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-</table>
 
 <details>
   <summary><b>🧰 View all technologies</b></summary>
@@ -209,32 +154,59 @@
   </div>
 </details>
 
-## <div align="center">📊 GitHub Stats & Activity</div>
+<!-- Projects Section -->
+<h2 align="center">🔥 Featured Projects</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikolajczykstanislaw&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikolajczykstanislaw&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Top Languages" height="170" />
+  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikolajczykstanislaw&repo=HydroGrowV2&theme=react&bg_color=0D1117&hide_border=true" alt="HydroGrowV2 Repo" />
+  </a>
+  <!-- Add more featured repos as needed -->
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mikolajczykstanislaw&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## <div align="center">⏱️ Coding Time Analytics</div>
-
-<div align="center">
-  <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=02e45dae-8881-4b6f-b47d-d35d57b742b9&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="WakaTime Weekly Stats" />
+  <a href="https://smiko.pl" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Website-smiko.pl-20BEFF?style=for-the-badge&logo=safari&logoColor=white" alt="Personal Website"/>
+  </a>
+  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2" target="_blank">
+    <img src="https://img.shields.io/badge/Mobile_App-HydroGrowV2-20BEFF?style=for-the-badge&logo=react&logoColor=white" alt="HydroGrowV2"/>
   </a>
 </div>
 
-## <div align="center">🔥 Contribution Graph</div>
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikolajczykstanislaw&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikolajczykstanislaw&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </div>
 
-## <div align="center">🌐 Connect With Me</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikolajczykstanislaw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikolajczykstanislaw&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mikolajczykstanislaw&theme=react-dark&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" width="100%" />
+</div>
+
+<!-- Coding Time Analytics -->
+<h2 align="center">⏱️ Coding Time Analytics</h2>
+
+<div align="center">
+  <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=02e45dae-8881-4b6f-b47d-d35d57b742b9&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="WakaTime Weekly Stats" />
+  </a>
+</div>
+
+<!-- Activity Graph -->
+<h2 align="center">📈 Activity Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikolajczykstanislaw&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%" />
+</div>
+
+<!-- Connect Section -->
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="mailto:mikolajczykstanislaw415@gmail.com" target="_blank">
@@ -246,10 +218,14 @@
   <a href="https://twitter.com/StanMikolajczyk" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://discord.gg/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
 
-<br>
+<br/>
 
+<!-- GitHub Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
@@ -258,22 +234,15 @@
   </picture>
 </div>
 
+<!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikolajczykstanislaw&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mikolajczykstanislaw&label=Profile%20Views&color=20BEFF&style=flat-square" alt="Profile Views" />
 </div>
 
----
-
+<!-- Footer -->
 <div align="center">
-  <h3>📌 Featured Repositories</h3>
-  
-  <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikolajczykstanislaw&repo=HydroGrowV2&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="HydroGrowV2 Repo" />
-  </a>
-  <!-- Add more featured repos as needed -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=120&section=footer" alt="footer" />
 </div>
-
----
 
 <div align="center">
   <sub><sup>⭐ Made with ❤️ by Stanislaw Mikolajczyk ⭐</sup></sub>
