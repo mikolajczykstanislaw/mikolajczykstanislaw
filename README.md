@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header&text=Stanislaw%20Mikolajczyk&fontSize=40&fontColor=6E57E0&fontAlignY=30&desc=Web%20Developer%20from%20Poland&descSize=20&descAlignY=50&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header&text=Stanisław%20Mikołajczyk&fontSize=40&fontColor=6E57E0&fontAlignY=30&desc=Web%20Developer%20from%20Poland&descSize=20&descAlignY=50&animation=fadeIn" alt="header"/>
   
   <a href="https://smiko.pl" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-smiko.pl-6E57E0?style=for-the-badge&logo=safari&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Portfolio"/>
