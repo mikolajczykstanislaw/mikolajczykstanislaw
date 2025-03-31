@@ -1,2 +1,106 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=header&text=Stanisław%20Mikołajczyk&fontSize=40&fontColor=6E57E0&fontAlignY=30&desc=Web%20Developer%20from%20Poland&descSize=20&descAlignY=50&animation=fadeIn" alt="header"/> <a href="https://smiko.pl" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-smiko.pl-6E57E0?style=for-the-badge&logo=safari&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Portfolio"/> </a> <a href="https://github.com/mikolajczykstanislaw?tab=followers" target="_blank"> <img src="https://img.shields.io/github/followers/mikolajczykstanislaw?style=for-the-badge&logo=github&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF&label=Followers" alt="GitHub followers"/> </a> <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9" target="_blank"> <img src="https://img.shields.io/badge/WakaTime-Profile-6E57E0?style=for-the-badge&logo=wakatime&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="WakaTime"/> </a> <p> <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="45" width="auto" alt="Waving hand"> <br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6E57E0&center=true&width=435&lines=Hi+there!;Welcome+to+my+profile;Check+out+my+projects" alt="Typing SVG" /> </p> </div> <div align="center"> <h2 style="color: #6E57E0;">🛠️ Currently working on</h2> <a href="https://smiko.pl" target="_blank"> <img src="https://img.shields.io/badge/Personal_Website-smiko.pl-6E57E0?style=for-the-badge&logo=safari&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Personal Website"/> </a> <a href="https://github.com/mikolajczykstanislaw/HydroGrowV2" target="_blank"> <img src="https://img.shields.io/badge/Mobile_App-HydroGrowV2-6E57E0?style=for-the-badge&logo=react&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="HydroGrowV2"/> </a> </div> <h2 align="center" style="color: #6E57E0;">💻 Tech Stack</h2> <table align="center"> <tr> <td align="center"><b style="color: #6E57E0;">Category</b></td> <td align="center"><b style="color: #6E57E0;">Technologies</b></td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">Frontend</b></td> <td> <img src="https://img.shields.io/badge/html5-6E57E0?style=for-the-badge&logo=html5&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="HTML5" /> <img src="https://img.shields.io/badge/css3-6E57E0?style=for-the-badge&logo=css3&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="CSS3" /> <img src="https://img.shields.io/badge/javascript-6E57E0?style=for-the-badge&logo=javascript&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="JavaScript" /> <img src="https://img.shields.io/badge/react-6E57E0?style=for-the-badge&logo=react&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="React" /> <img src="https://img.shields.io/badge/vue.js-6E57E0?style=for-the-badge&logo=vuedotjs&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Vue.js" /> <img src="https://img.shields.io/badge/Next-6E57E0?style=for-the-badge&logo=next.js&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Next JS" /> <img src="https://img.shields.io/badge/Gatsby-6E57E0?style=for-the-badge&logo=gatsby&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Gatsby" /> <img src="https://img.shields.io/badge/react_native-6E57E0?style=for-the-badge&logo=react&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="React Native" /> <img src="https://img.shields.io/badge/tailwindcss-6E57E0?style=for-the-badge&logo=tailwind-css&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/bootstrap-6E57E0?style=for-the-badge&logo=bootstrap&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Bootstrap" /> <img src="https://img.shields.io/badge/SASS-6E57E0?style=for-the-badge&logo=SASS&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="SASS" /> <img src="https://img.shields.io/badge/threejs-6E57E0?style=for-the-badge&logo=three.js&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Three js" /> <img src="https://img.shields.io/badge/react_three_fiber-6E57E0?style=for-the-badge&logo=react&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="React Three Fiber" /> <img src="https://img.shields.io/badge/GSAP-6E57E0?style=for-the-badge&logo=greensock&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="GSAP" /> </td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">Backend</b></td> <td> <img src="https://img.shields.io/badge/node.js-6E57E0?style=for-the-badge&logo=node.js&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="NodeJS" /> <img src="https://img.shields.io/badge/php-6E57E0?style=for-the-badge&logo=php&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="PHP" /> </td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">Databases</b></td> <td> <img src="https://img.shields.io/badge/MongoDB-6E57E0?style=for-the-badge&logo=mongodb&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="MongoDB" /> <img src="https://img.shields.io/badge/mysql-6E57E0?style=for-the-badge&logo=mysql&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="MySQL" /> <img src="https://img.shields.io/badge/firebase-6E57E0?style=for-the-badge&logo=firebase&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Firebase" /> </td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">Platforms</b></td> <td> <img src="https://img.shields.io/badge/vercel-6E57E0?style=for-the-badge&logo=vercel&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Vercel" /> <img src="https://img.shields.io/badge/heroku-6E57E0?style=for-the-badge&logo=heroku&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Heroku" /> <img src="https://img.shields.io/badge/Cloudflare-6E57E0?style=for-the-badge&logo=Cloudflare&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Cloudflare" /> <img src="https://img.shields.io/badge/hostinger-6E57E0?style=for-the-badge&logo=hostinger&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Hostinger" /> </td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">Tools</b></td> <td> <img src="https://img.shields.io/badge/git-6E57E0?style=for-the-badge&logo=git&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Git" /> <img src="https://img.shields.io/badge/github-6E57E0?style=for-the-badge&logo=github&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="GitHub" /> <img src="https://img.shields.io/badge/NPM-6E57E0?style=for-the-badge&logo=npm&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="NPM" /> <img src="https://img.shields.io/badge/gulp-6E57E0?style=for-the-badge&logo=gulp&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Gulp" /> </td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">Design Tools</b></td> <td> <img src="https://img.shields.io/badge/figma-6E57E0?style=for-the-badge&logo=figma&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Figma" /> </td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">E-commerce</b></td> <td> <img src="https://img.shields.io/badge/woocommerce-6E57E0?style=for-the-badge&logo=woocommerce&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="WooCommerce" /> <img src="https://img.shields.io/badge/prestashop-6E57E0?style=for-the-badge&logo=prestashop&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="PrestaShop" /> </td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">Payment Systems</b></td> <td> <img src="https://img.shields.io/badge/stripe-6E57E0?style=for-the-badge&logo=stripe&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Stripe" /> </td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">CMS</b></td> <td> <img src="https://img.shields.io/badge/WordPress-6E57E0?style=for-the-badge&logo=WordPress&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="WordPress" /> <img src="https://img.shields.io/badge/moodle-6E57E0?style=for-the-badge&logo=moodle&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Moodle" /> </td> </tr> <tr> <td align="center"><b style="color: #6E57E0;">Other</b></td> <td> <img src="https://img.shields.io/badge/vite-6E57E0?style=for-the-badge&logo=vite&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Vite" /> <img src="https://img.shields.io/badge/appwrite-6E57E0?style=for-the-badge&logo=appwrite&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="Appwrite" /> <img src="https://img.shields.io/badge/nativewind-6E57E0?style=for-the-badge&logo=react&logoColor=6E57E0&labelColor=FFFFFF&color=FFFFFF" alt="NativeWind" /> </td> </tr> </table> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" /> </picture> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=mikolajczykstanislaw&color=6E57E0&style=flat-square" alt="Profile Views" /> </div> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer&reversal=true" alt="footer"/> </div>
+<div align="center">
+  
+  # Stanisław Mikołajczyk
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-smiko.pl-6E57E0?style=for-the-badge&logo=safari&logoColor=white&labelColor=6E57E0)](https://smiko.pl)
+  [![GitHub followers](https://img.shields.io/github/followers/mikolajczykstanislaw?style=for-the-badge&logo=github&logoColor=white&labelColor=6E57E0)](https://github.com/mikolajczykstanislaw?tab=followers)
+  [![WakaTime](https://img.shields.io/badge/WakaTime-Profile-6E57E0?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=6E57E0)](https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9)
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6E57E0&center=true&vCenter=true&width=435&lines=Hello+World!;Frontend+Developer;Creative+Coder;Web+Enthusiast)
+
+  <p>Web Developer from Poland passionate about creating beautiful digital experiences</p>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="45" width="auto" alt="Waving hand">
+</div>
+
+## 🚀 Current Projects
+
+<div align="center">
+  
+  [![Personal Website](https://img.shields.io/badge/Personal_Website-smiko.pl-6E57E0?style=for-the-badge&logo=safari&logoColor=white&labelColor=181818)](https://smiko.pl)
+  [![HydroGrowV2](https://img.shields.io/badge/Mobile_App-HydroGrowV2-6E57E0?style=for-the-badge&logo=react&logoColor=white&labelColor=181818)](https://github.com/mikolajczykstanislaw/HydroGrowV2)
+  
+</div>
+
+## 💻 Tech Stack
+
+<details open>
+  <summary><b>Frontend</b></summary>
+  <br>
+  
+  ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+  ![React Native](https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+  ![ThreeJS](https://img.shields.io/badge/threejs-000000?style=for-the-badge&logo=three.js&logoColor=white)
+  ![React Three Fiber](https://img.shields.io/badge/react_three_fiber-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+</details>
+
+<details>
+  <summary><b>Backend & Databases</b></summary>
+  <br>
+  
+  ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</details>
+
+<details>
+  <summary><b>Tools & Platforms</b></summary>
+  <br>
+  
+  ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  ![Gulp](https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+</details>
+
+<details>
+  <summary><b>CMS & E-commerce</b></summary>
+  <br>
+  
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
+  ![Moodle](https://img.shields.io/badge/moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
+  ![WooCommerce](https://img.shields.io/badge/woocommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+  ![PrestaShop](https://img.shields.io/badge/prestashop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+</details>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikolajczykstanislaw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikolajczykstanislaw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mikolajczykstanislaw/mikolajczykstanislaw/output/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mikolajczykstanislaw&color=6E57E0&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <a href="https://smiko.pl">
+    <img src="https://img.shields.io/badge/Let's_connect-6E57E0?style=for-the-badge" alt="Let's connect"/>
+  </a>
+</div>
