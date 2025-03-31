@@ -1,20 +1,24 @@
 <div align="center">
-  <h1>Stanisław Mikołajczyk</h1>
-  <p>Web Developer from Poland</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header" width="100%" alt="Header Wave" />
   
-  <a href="https://smiko.pl" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-smiko.pl-0ea5e9?style=flat&logo=safari&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/mikolajczykstanislaw?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/mikolajczykstanislaw?style=flat&logo=github&logoColor=white&color=0ea5e9&label=Followers" alt="GitHub followers"/>
-  </a>
-  <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-Profile-0ea5e9?style=flat&logo=wakatime&logoColor=white&color=0ea5e9" alt="WakaTime"/>
-  </a>
-  
-  <p>
+  <div style="margin-top: -60px;">
+    <h1>Stanisław Mikołajczyk</h1>
+    <h3>Web Developer from Poland</h3>
+    
+    <div>
+      <a href="https://smiko.pl" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-smiko.pl-0ea5e9?style=flat&logo=safari&logoColor=white" alt="Portfolio"/>
+      </a>
+      <a href="https://github.com/mikolajczykstanislaw?tab=followers" target="_blank">
+        <img src="https://img.shields.io/github/followers/mikolajczykstanislaw?style=flat&logo=github&logoColor=white&color=0ea5e9&label=Followers" alt="GitHub followers"/>
+      </a>
+      <a href="https://wakatime.com/@02e45dae-8881-4b6f-b47d-d35d57b742b9" target="_blank">
+        <img src="https://img.shields.io/badge/WakaTime-Profile-0ea5e9?style=flat&logo=wakatime&logoColor=white&color=0ea5e9" alt="WakaTime"/>
+      </a>
+    </div>
+    
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=0ea5e9&center=true&width=435&lines=Hi+there!;Welcome+to+my+profile;Check+out+my+projects" alt="Typing SVG" />
-  </p>
+  </div>
 </div>
 
 ## 🛠️ Currently working on
@@ -124,4 +128,6 @@
   </picture>
   
   <img src="https://komarev.com/ghpvc/?username=mikolajczykstanislaw&color=0ea5e9&style=flat" alt="Profile Views" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer&reversal=true" width="100%" alt="Footer Wave" />
 </div>
